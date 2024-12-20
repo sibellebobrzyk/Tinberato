@@ -1,0 +1,1 @@
+A system was developed to register individuals and assess compatibility based on shared traits. It included details such as name, age, city, gender, phone, hobbies, travel and movie preferences, and was presented in class at Fundação Liberato as part of the evaluation.
